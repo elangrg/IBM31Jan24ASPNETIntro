@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IBM31Jan24ASPNETIntro", "IBM31Jan24ASPNETIntro\IBM31Jan24ASPNETIntro.csproj", "{E8B6E6F5-58D8-4175-9DF9-D68CB6FA4F20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8B6E6F5-58D8-4175-9DF9-D68CB6FA4F20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8B6E6F5-58D8-4175-9DF9-D68CB6FA4F20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8B6E6F5-58D8-4175-9DF9-D68CB6FA4F20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8B6E6F5-58D8-4175-9DF9-D68CB6FA4F20}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D0C5209-5527-46D3-BFA1-9E3DA246C88B}
+	EndGlobalSection
+EndGlobal
